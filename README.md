@@ -1,9 +1,11 @@
 # simhashpy
 使用simhash算法,快速索引和查询大量文本
 
+输入: 文本
+输出: 重复文本及其id
 
 ##职位描述数据
-数据为mongo导出的bson格式, http://pan.baidu.com/s/1dDDItTf 密码:fcbe
+数据为mongo导出的bson格式,  http://pan.baidu.com/s/1hqwHEBy 密码: im5v
 
 
 ##依赖包安装:
